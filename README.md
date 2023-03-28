@@ -1,2 +1,1 @@
-# crud_responsivo_javascript
-Criando CRUD Responsivo com JavaScript (Projeto de Cadastro)
+<h1 align="center"> CRUD Responsivo com JavaScript(Projeto de Cadastro) </h1>
